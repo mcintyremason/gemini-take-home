@@ -1,0 +1,8 @@
+.header-bar .sign-out-link {
+  cursor: pointer;
+}
+
+.header-bar img.gemini-logo {
+  height: 50px;
+  width: 50px;
+}

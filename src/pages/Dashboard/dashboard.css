@@ -1,0 +1,11 @@
+.dashboard {
+  padding: 50px 0;
+}
+
+.dashboard .dashboard-left-container {
+  padding: 0 50px;
+}
+
+.dashboard .card-container {
+  padding: 0 0 30px;
+}

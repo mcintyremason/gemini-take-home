@@ -1,0 +1,28 @@
+.send-jobcoin-card {
+  max-width: 350px;
+}
+
+.send-jobcoin-card .card-content {
+  padding: 20px 0;
+}
+
+.send-jobcoin-card .card-actions {
+  padding: 40px 60px;
+}
+
+.send-jobcoin-card .text-field-label-container {
+  padding: 0 0 15px;
+}
+
+.send-jobcoin-card .text-field {
+  min-width: 250px;
+}
+
+.send-jobcoin-card .text-field-container {
+  padding: 0 0 20px;
+}
+
+.send-jobcoin-card .card-button {
+  min-width: 250px;
+  padding: 10px 0;
+}

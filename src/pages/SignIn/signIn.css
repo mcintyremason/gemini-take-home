@@ -1,0 +1,12 @@
+.sign-in-container {
+  height: 100%;
+}
+
+.sign-in-card-container {
+  max-width: 475px;
+  padding: 0 0 5%;
+}
+
+.sign-in-logo {
+  padding: 0 0 65px;
+}

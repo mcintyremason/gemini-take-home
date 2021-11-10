@@ -1,0 +1,11 @@
+.address-balance-card {
+  max-width: 350px;
+}
+
+.address-balance-card .card-content {
+  padding: 20px 0;
+}
+
+.address-balance-card .card-actions {
+  padding: 40px 60px;
+}
